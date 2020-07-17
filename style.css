@@ -16,11 +16,11 @@ body {
 h1, h2, p, a, ul, li {
 	margin: 0;
 	font-size: 60%;
-	font-family: "open sans condensed", helvetica, arial, sans-serif;
+	font-family: "open sans condensed", calibri, arial, sans-serif;
 }
 h1 {
 	margin: 0px;
-	font-size: 180%;
+	font-size: 100%;
 }
 h2 {
 	color: #265ED4;
@@ -38,7 +38,7 @@ a {
 	color: #06F;
 }
 a:visited {
-	color: #DEF7D8;
+	color: #ED42E2;
 }
 header {
 	width: 700px;
